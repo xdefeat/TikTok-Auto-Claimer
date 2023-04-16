@@ -1,0 +1,21 @@
+TikTok Auto Claimer
+
+- $100 Crypto.
+- Full Source.
+- Roughly 20 Requests Per Second, Can Claim 3ls Well.
+- No Proxies Needed.
+- Very Basic And Easy To Use.
+- Custom Webhook Notifications For Claims.
+
+Requirements;
+
+- Nox Player/Memu (Emulator)
+- Http Tool Kit (Search On Web And Download)
+- A Brain
+
+Discord; defeat#0382
+Telegram; KudaDEV
+
+Purchase Here;
+
+https://claimer.mysellix.io
